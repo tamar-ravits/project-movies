@@ -12,6 +12,14 @@ input:focus {
   border: none !important;
 }
 
+.wrap-Poster {
+  width: 40%;
+}
+
+.wrap-details {
+  width: 60%;
+}
+
 .input-group.md-form.form-sm.form-1 input {
   background-color: rgb(56, 56, 56);
   height: 65%;
